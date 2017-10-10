@@ -18,4 +18,4 @@ $.ajax({
 });
 
 
-console.log(data);
+console.log("Job finished!");
